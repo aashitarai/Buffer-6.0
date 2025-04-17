@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" fill="none" />
+  
+  <!-- Globe in pixel art style -->
+  <g fill="#4cc9f0">
+    <!-- Outer circle -->
+    <rect x="20" y="12" width="24" height="8" />
+    <rect x="12" y="20" width="8" height="24" />
+    <rect x="20" y="44" width="24" height="8" />
+    <rect x="44" y="20" width="8" height="24" />
+    
+    <!-- Corners -->
+    <rect x="16" y="16" width="8" height="8" />
+    <rect x="40" y="16" width="8" height="8" />
+    <rect x="16" y="40" width="8" height="8" />
+    <rect x="40" y="40" width="8" height="8" />
+    
+    <!-- Grid lines -->
+    <rect x="12" y="32" width="40" height="4" />
+    <rect x="32" y="12" width="4" height="40" />
+  </g>
+</svg>
